@@ -21,8 +21,10 @@ To get started, clone the repository and install the required dependencies.
 ### Clone the repository:
 ```bash
 git clone https://github.com/Maryazuhair/Face_Detection.git
-
+```
 ### Install dependencies:
 ```bash
-You can install the dependencies using pip:
 pip install -r requirements.txt
+```
+### Results
+The model detects faces in both images and video streams. You can visualize the detection by bounding boxes drawn around faces.
