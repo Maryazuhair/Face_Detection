@@ -2,15 +2,7 @@
 
 This project implements face detection using OpenCV and Haar Cascade Classifiers. The goal is to detect faces in real-time video streams from a webcam or from an image.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Dataset](#dataset)
-- [Haar Cascade Classifiers](#haar-cascade-classifiers)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 Face detection is a computer vision task that involves identifying and locating human faces in an image or a video. This project leverages OpenCV’s pre-trained Haar Cascade Classifiers to achieve real-time face detection.
