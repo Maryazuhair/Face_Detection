@@ -22,6 +22,7 @@ To get started, clone the repository and install the required dependencies.
 ```bash
 git clone https://github.com/Maryazuhair/Face_Detection.git
 
-Install dependencies:
+### Install dependencies:
+```bash
 You can install the dependencies using pip:
 pip install -r requirements.txt
