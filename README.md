@@ -1,0 +1,27 @@
+# Face Detection Using OpenCV
+
+This project implements face detection using OpenCV and Haar Cascade Classifiers. The goal is to detect faces in real-time video streams from a webcam or from an image.
+
+## Table of Contents
+- [Introduction](#introduction)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Dataset](#dataset)
+- [Haar Cascade Classifiers](#haar-cascade-classifiers)
+- [Results](#results)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Introduction
+Face detection is a computer vision task that involves identifying and locating human faces in an image or a video. This project leverages OpenCV’s pre-trained Haar Cascade Classifiers to achieve real-time face detection.
+
+## Installation
+To get started, clone the repository and install the required dependencies.
+
+### Clone the repository:
+```bash
+git clone https://github.com/Maryazuhair/Face_Detection.git
+
+Install dependencies:
+You can install the dependencies using pip:
+pip install -r requirements.txt
